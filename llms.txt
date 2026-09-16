@@ -1,0 +1,17 @@
+# Jay Saadana
+
+> Official portfolio of Jay Saadana, a Developer Relations professional and Head of Developer Growth at Agentr, working on Webcmd and developer ecosystems for web-enabled AI agents.
+
+Jay's work covers developer community growth, open source, technical education, partnerships, developer experience, and AI agents. This site contains his professional experience, selected projects, writing, and collaborator testimonials.
+
+## Profile
+
+- [Professional profile](https://jaysaadana.com/index.md): Current and past roles, expertise, selected work, writing, and contact details in Markdown.
+- [Portfolio](https://jaysaadana.com/): Human-readable portfolio with full testimonials.
+
+## Published work and public profiles
+
+- [Technical writing](https://dev.to/jaysaadana): Jay's DEV Community profile.
+- [GitHub](https://github.com/jaysaadana5): Open-source profile and repositories.
+- [LinkedIn](https://linkedin.com/in/jaysaadana): Professional profile.
+- [Twitter / X](https://twitter.com/jaysaadana): Public social profile.
