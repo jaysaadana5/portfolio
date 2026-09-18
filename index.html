@@ -61,7 +61,7 @@
     .marquee-group{display:flex;align-items:center;flex-shrink:0;gap:2rem;padding-right:2rem}
     .marquee-group span{display:block;flex:none;white-space:nowrap}
     @keyframes skills-scroll{from{transform:translate3d(0,0,0)}to{transform:translate3d(-50%,0,0)}}
-    @media(prefers-reduced-motion:reduce){.marquee-track{animation:none;transform:none;width:100%;will-change:auto}.marquee-group{width:100%;flex-wrap:wrap;justify-content:center;gap:.65rem 1.2rem;padding:0 1rem}.marquee-group[aria-hidden]{display:none}.marquee-group span:after{display:none}}
+    @media(prefers-reduced-motion:reduce){.marquee-track{animation:skills-scroll 40s linear infinite}}
   </style>
 </head>
 <body>
