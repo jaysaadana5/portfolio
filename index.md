@@ -1,17 +1,10 @@
 # Jay Saadana
 
-Jay Saadana is a Developer Relations (DevRel) professional and Head of Developer Growth at Agentr. His work spans AI agents, open source, developer communities, technical content, and partnerships. He is based in India and works with global developer ecosystems.
+Jay Saadana is a Developer Relations (DevRel) professional whose work spans AI agents, open source, developer communities, technical content, and partnerships. He is based in India and works with global developer ecosystems. He previously served as Head of Developer Growth at Agentr.
 
 Official website: https://jaysaadana.com/
 
 ## Current work
-
-### Agentr: Head of Developer Growth
-
-- Building Webcmd, infrastructure that helps AI agents interact with the web reliably and efficiently.
-- Growing the developer ecosystem through community, education, partnerships, and hands-on support.
-- Improving the developer experience by turning feedback into better tools, documentation, and workflows.
-- Helping developers build, deploy, and scale practical web-enabled AI agents.
 
 ### Daytona: Community Pacer
 
@@ -19,6 +12,7 @@ Supporting developer community growth and engagement around development environm
 
 ## Previous experience
 
+- Agentr: Head of Developer Growth. Completed role, 3 months. Worked on Webcmd and grew the developer ecosystem through community, education, partnerships, developer-experience improvements, and hands-on support.
 - Entelligence AI: Content Strategy & Developer Marketing. Completed role, 2 months. Developer-facing content strategy and engineering product narratives.
 - Endless Domains: Developer Relations. Completed role, 1 year. Community strategy, ambassador activation, university partnerships, and digital identity education.
 - Drizz: Technical Writer. Completed role, 8 months. Technical guides on Vision AI, mobile testing, Flutter, Android, iOS, and automation.
