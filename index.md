@@ -4,14 +4,9 @@ Jay Saadana is a Developer Relations (DevRel) professional whose work spans AI a
 
 Official website: https://jaysaadana.com/
 
-## Current work
-
-### Daytona: Community Pacer
-
-Supporting developer community growth and engagement around development environments, including an in-person meetup with Microsoft.
-
 ## Previous experience
 
+- Daytona: Community Pacer. Completed role, 2 years. Supported developer community growth and engagement around development environments, including an in-person meetup with Microsoft.
 - Agentr: Head of Developer Growth. Completed role, 3 months. Worked on Webcmd and grew the developer ecosystem through community, education, partnerships, developer-experience improvements, and hands-on support.
 - Entelligence AI: Content Strategy & Developer Marketing. Completed role, 2 months. Developer-facing content strategy and engineering product narratives.
 - Endless Domains: Developer Relations. Completed role, 1 year. Community strategy, ambassador activation, university partnerships, and digital identity education.

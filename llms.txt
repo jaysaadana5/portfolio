@@ -6,7 +6,7 @@ Jay's work covers developer community growth, open source, technical education, 
 
 ## Profile
 
-- [Professional profile](https://jaysaadana.com/index.md): Current and past roles, expertise, selected work, writing, and contact details in Markdown.
+- [Professional profile](https://jaysaadana.com/index.md): Completed roles and durations, expertise, selected work, writing, and contact details in Markdown.
 - [Portfolio](https://jaysaadana.com/): Human-readable portfolio with full testimonials.
 
 ## Published work and public profiles
