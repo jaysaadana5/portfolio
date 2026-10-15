@@ -10,7 +10,7 @@
   <meta name="robots" content="index, follow, max-image-preview:large" />
   <meta name="author" content="Jay Saadana" />
   <meta name="google-site-verification" content="zBhBOD2lBcQVBugsAbwp3OIOPqL77hGb75ei_Nq8wss" />
-  <link rel="preload" as="image" href="js-sculpture.webp" type="image/webp" />
+  <link rel="preload" as="image" href="ai-network.svg" type="image/svg+xml" />
   <meta property="og:type" content="profile" />
   <meta property="og:url" content="https://jaysaadana.com/" />
   <meta property="og:title" content="Jay Saadana | Developer Relations &amp; Developer Growth" />
@@ -219,6 +219,17 @@
       header{height:4.25rem}.nav{display:none}.hero{padding-top:4.5rem}.hero-grid{grid-template-columns:1fr;gap:2.25rem}.hero-copy h1{font-size:clamp(4rem,21vw,6.5rem);line-height:.84}.hero-copy h1 span:last-child{margin-left:.5rem}.hero-art{min-height:27rem}.art-disk{width:min(88vw,25rem);padding:.8rem}.profile-stamp{right:.2rem;bottom:1.25rem}.hero-bottom{margin-top:1.5rem;align-items:flex-start;flex-direction:column}.section-top{padding-bottom:1.35rem;align-items:flex-start;flex-direction:column}.about-grid{grid-template-columns:1fr}.job-button{grid-template-columns:1fr auto}.job-date{grid-row:2}.chevron{grid-column:2;grid-row:1/3}.work-grid{grid-template-columns:1fr}.writing-grid{grid-template-columns:1fr 1fr}.testimonials-grid{grid-template-columns:1fr}.testimonial blockquote{font-size:1rem}}
     @media(max-width:480px){
       .say-hi{display:none}.hero-copy h1{font-size:4.15rem}.profile-stamp{transform:scale(.9);transform-origin:right bottom}.hero-art{min-height:23rem}.metrics{grid-template-columns:repeat(2,1fr)}.job-button{padding:1.1rem .1rem}.job-title b{font-size:1.18rem}.section-top h2{font-size:2.75rem}.writing-grid{grid-template-columns:1fr}footer{flex-direction:column;gap:.35rem}}
+    .art-disk{
+      padding:0;
+      background-color:var(--panel);
+      background-image:url('ai-network.svg');
+      background-position:center;
+      background-repeat:no-repeat;
+      background-size:cover;
+      box-shadow:0 32px 100px rgba(0,0,0,.28)
+    }
+    .art-disk .sculpture{display:none}
+    @media(max-width:760px){.art-disk{width:min(86vw,24rem)}}
   </style>
 </head>
 <body>
@@ -257,7 +268,7 @@
     document.querySelectorAll('.job-button').forEach(btn=>btn.addEventListener('click',()=>{const job=btn.closest('.job'),open=!job.classList.contains('open');document.querySelectorAll('.job').forEach(j=>{j.classList.remove('open');j.querySelector('.job-button').setAttribute('aria-expanded','false')});if(open){job.classList.add('open');btn.setAttribute('aria-expanded','true')}}));
     document.querySelectorAll('.category').forEach(btn=>btn.addEventListener('click',()=>{document.querySelectorAll('.category').forEach(b=>b.classList.toggle('active',b===btn));document.querySelectorAll('.work-card').forEach(card=>card.hidden=btn.dataset.filter!=='all'&&!card.dataset.type.split(' ').includes(btn.dataset.filter))}));
     const reveal=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('visible');reveal.unobserve(e.target)}}),{threshold:.1});document.querySelectorAll('.reveal').forEach(el=>reveal.observe(el));
-    (()=>{const art=document.querySelector('.art-disk'),host=document.getElementById('heroArt');if(!art||matchMedia('(prefers-reduced-motion: reduce)').matches)return;host.addEventListener('pointermove',e=>{const r=host.getBoundingClientRect(),x=(e.clientX-r.left)/r.width-.5,y=(e.clientY-r.top)/r.height-.5;art.style.transform=`rotateY(${x*13}deg) rotateX(${-y*11}deg) translate3d(${x*7}px,${y*7}px,0)`});host.addEventListener('pointerleave',()=>art.style.transform='')})();
+    (()=>{const art=document.querySelector('.art-disk'),host=document.getElementById('heroArt');if(!art)return;art.setAttribute('role','img');art.setAttribute('aria-label','Open-source AI network connecting builders, shared knowledge, and practical agent systems');if(matchMedia('(prefers-reduced-motion: reduce)').matches)return;host.addEventListener('pointermove',e=>{const r=host.getBoundingClientRect(),x=(e.clientX-r.left)/r.width-.5,y=(e.clientY-r.top)/r.height-.5;art.style.transform=`rotateY(${x*4}deg) rotateX(${-y*4}deg) translate3d(${x*3}px,${y*3}px,0)`});host.addEventListener('pointerleave',()=>art.style.transform='')})();
   </script>
 </body>
 </html>
