@@ -65,6 +65,160 @@
     @keyframes skills-scroll{from{transform:translate3d(0,0,0)}to{transform:translate3d(-50%,0,0)}}
     @media(prefers-reduced-motion:reduce){.marquee-track{animation:skills-scroll 40s linear infinite}}
     .reveal{opacity:1;transform:none}
+
+    /* Refined editorial system: quiet luxury with a technical edge. */
+    :root{
+      --bg:#0b0d0c;
+      --panel:#121513;
+      --panel2:#171b18;
+      --text:#f3efe5;
+      --muted:#a5aaa2;
+      --line:rgba(243,239,229,.14);
+      --accent:#c8a56a;
+      --accent2:#6d9b89;
+      --accent-soft:rgba(200,165,106,.10);
+      --chip:#1a1e1b;
+      --shadow:0 24px 80px rgba(0,0,0,.22);
+      --max:1180px
+    }
+    body.light{
+      --bg:#f4f0e7;
+      --panel:#fbf8f1;
+      --panel2:#ece6da;
+      --text:#171a18;
+      --muted:#656b65;
+      --line:rgba(23,26,24,.16);
+      --accent:#8a6635;
+      --accent2:#477363;
+      --accent-soft:rgba(138,102,53,.10);
+      --chip:#ede7db;
+      --shadow:0 22px 70px rgba(43,38,29,.10)
+    }
+    body{
+      background-color:var(--bg);
+      background-image:linear-gradient(rgba(255,255,255,.012) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.012) 1px,transparent 1px);
+      background-size:72px 72px;
+      font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+      letter-spacing:-.008em
+    }
+    header{height:4.75rem;background:color-mix(in srgb,var(--bg) 88%,transparent);border-bottom:1px solid var(--line)}
+    .nav-wrap{padding-inline:var(--pad)}
+    .mark{font-family:Georgia,"Times New Roman",serif;font-size:1.35rem;letter-spacing:-.05em}
+    .mark:after{color:var(--accent);font-size:.42em;vertical-align:top}
+    .nav{gap:2.25rem}
+    .nav a{font-size:.66rem;font-weight:650;letter-spacing:.14em;transition:color .2s ease}
+    .nav a:hover{color:var(--text)}
+    .icon-btn{border-radius:999px;background:transparent;border-color:var(--line)}
+    .say-hi{border-radius:999px;background:var(--text);color:var(--bg);box-shadow:none;padding:.78rem 1.15rem;letter-spacing:.1em}
+    .say-hi:hover{background:var(--accent);color:#10120f}
+    .hero{min-height:calc(100svh - 4.75rem);padding-top:4rem;padding-bottom:2rem}
+    .hero-grid{grid-template-columns:1.08fr .92fr;gap:clamp(2.5rem,7vw,7rem)}
+    .eyebrow{color:var(--accent);font-size:.64rem;letter-spacing:.2em}
+    .eyebrow i{width:.42rem;height:.42rem;background:var(--accent2);box-shadow:0 0 0 5px color-mix(in srgb,var(--accent2) 12%,transparent)}
+    .hero-copy h1{
+      font-family:Georgia,"Times New Roman",serif;
+      font-size:clamp(4.3rem,9vw,8.4rem);
+      line-height:.82;
+      letter-spacing:-.075em;
+      font-weight:400;
+      margin:1.75rem 0 2.2rem
+    }
+    .hero-copy h1 span:last-child{
+      color:var(--accent);
+      -webkit-text-stroke:0;
+      font-style:italic;
+      margin-left:clamp(1rem,3.5vw,3.5rem)
+    }
+    .hero-copy>p{max-width:36rem;color:var(--muted);font-size:clamp(1rem,1.3vw,1.12rem);line-height:1.75}
+    .hero-copy>p strong{font-weight:600;color:var(--text)}
+    .socials{margin-top:2rem;gap:.7rem}
+    .socials a{border-radius:999px;background:transparent;padding:.72rem 1rem;letter-spacing:.08em;transition:background .2s ease,border-color .2s ease,color .2s ease,transform .2s ease}
+    .socials a:first-child{background:var(--accent);border-color:var(--accent);color:#11130f}
+    .socials a:hover{background:var(--text);border-color:var(--text);color:var(--bg)}
+    .hero-art{min-height:34rem}
+    .art-disk{
+      width:min(100%,28rem);
+      border:1px solid color-mix(in srgb,var(--accent) 50%,var(--line));
+      border-radius:50%;
+      padding:1.2rem;
+      background:radial-gradient(circle at 48% 42%,rgba(200,165,106,.12),rgba(109,155,137,.045) 48%,transparent 70%);
+      box-shadow:inset 0 0 0 10px var(--bg),inset 0 0 0 11px var(--line),0 30px 90px rgba(0,0,0,.25)
+    }
+    .sculpture{filter:drop-shadow(0 24px 38px rgba(0,0,0,.28)) saturate(.85)}
+    .profile-stamp{
+      left:auto;
+      right:-.5rem;
+      bottom:2.2rem;
+      border:1px solid var(--line);
+      border-radius:999px;
+      background:color-mix(in srgb,var(--panel) 88%,transparent);
+      color:var(--text);
+      backdrop-filter:blur(16px);
+      padding:.5rem 1rem .5rem .5rem;
+      transform:none;
+      box-shadow:0 16px 45px rgba(0,0,0,.24)
+    }
+    .profile-stamp img{width:3rem;height:3rem;border-color:var(--accent)}
+    .profile-stamp span{color:var(--muted)}
+    .hero-bottom{margin-top:2.5rem;padding-top:1.8rem}
+    .hero-bottom>span{max-width:25rem;line-height:1.7;letter-spacing:.16em}
+    .metric b{font-family:Georgia,"Times New Roman",serif;font-size:clamp(1.45rem,2.4vw,2.1rem);font-weight:400;color:var(--accent)}
+    .metric span{letter-spacing:.12em}
+    .marquee{margin:0;background:var(--panel);color:var(--text);border-color:var(--line)}
+    .marquee-track{padding:1.05rem 0;font-size:.68rem;font-weight:650;letter-spacing:.17em}
+    .marquee-track span:after{color:var(--accent);font-size:.72em}
+    section{padding-block:clamp(5.5rem,9vw,8.5rem)}
+    .section-top{margin-bottom:2.75rem;border-bottom:1px solid var(--line);padding-bottom:1.8rem}
+    .section-top h2{font-family:Georgia,"Times New Roman",serif;font-size:clamp(2.7rem,5vw,4.8rem);font-weight:400;line-height:.98;letter-spacing:-.055em;max-width:13ch}
+    .section-top h2 span{color:var(--accent);font-style:italic}
+    .section-top p{line-height:1.7}
+    .kicker{color:var(--accent);font-size:.64rem;letter-spacing:.2em;margin-bottom:1rem}
+    .about-grid{gap:1.25rem;grid-template-columns:1.12fr .88fr}
+    .card{border-radius:1.25rem;background:color-mix(in srgb,var(--panel) 92%,transparent);box-shadow:none}
+    .about-copy{padding:clamp(2rem,5vw,4rem)}
+    .about-copy .lead{font-family:Georgia,"Times New Roman",serif;font-size:clamp(1.65rem,3.2vw,2.7rem);font-weight:400;line-height:1.18}
+    .about-copy .lead em{color:var(--accent)}
+    .skills{padding:1.2rem 1.4rem}
+    .skill-group{padding:1.3rem .6rem}
+    .skill-group h3{font-size:.73rem;text-transform:uppercase;letter-spacing:.12em}
+    .tag{border:1px solid var(--line);border-radius:999px;background:transparent;padding:.42rem .68rem}
+    .experience{gap:0;border-top:1px solid var(--line)}
+    .job{border:0;border-bottom:1px solid var(--line);border-radius:0;background:transparent}
+    .job-button{padding:1.35rem .2rem;grid-template-columns:1fr auto auto}
+    .job-title b{font-family:Georgia,"Times New Roman",serif;font-size:1.35rem;font-weight:400}
+    .job-title span{font-size:.78rem;margin-top:.16rem;display:block}
+    .job-date{color:var(--accent);font-size:.64rem;letter-spacing:.12em}
+    .job.open{background:linear-gradient(90deg,var(--accent-soft),transparent 65%)}
+    .job-details ul{max-width:52rem;color:var(--muted);padding:0 1.3rem 1.5rem 1.5rem}
+    .category-nav{gap:.55rem;margin-bottom:1.35rem}
+    .category{border-radius:999px;background:transparent;padding:.62rem .95rem;letter-spacing:.05em}
+    .category.active,.category:hover{background:var(--text);border-color:var(--text);color:var(--bg)}
+    .work-grid{gap:1.25rem}
+    .work-card{min-height:23rem;border-radius:1.25rem;background:var(--panel);transition:transform .25s ease,border-color .25s ease,box-shadow .25s ease}
+    .work-card:hover{border-color:color-mix(in srgb,var(--accent) 60%,var(--line));transform:translateY(-4px);box-shadow:var(--shadow)}
+    .work-visual{height:9.5rem;padding:1.35rem;background:radial-gradient(circle at 15% 20%,var(--accent-soft),transparent 55%),var(--panel2)}
+    .work-visual strong{font-family:Georgia,"Times New Roman",serif;font-size:3.2rem;font-weight:400;color:var(--accent)}
+    .work-visual span{letter-spacing:.1em}
+    .work-content{padding:1.5rem}
+    .work-content h3{font-family:Georgia,"Times New Roman",serif;font-size:1.65rem;font-weight:400}
+    .work-content p{line-height:1.7}
+    .writing-grid{gap:1.25rem}
+    .article{min-height:15rem;border-radius:1.15rem;background:transparent;padding:1.5rem;transition:background .2s ease,border-color .2s ease,transform .2s ease}
+    .article h3{font-family:Georgia,"Times New Roman",serif;font-size:1.35rem;font-weight:400;line-height:1.3}
+    .article:hover{background:var(--panel);border-color:color-mix(in srgb,var(--accent) 60%,var(--line));transform:translateY(-3px)}
+    .testimonials-grid{gap:1.25rem}
+    .testimonial{border-top:1px solid var(--line);padding:clamp(1.6rem,3vw,2.3rem)}
+    .testimonial blockquote{font-family:Georgia,"Times New Roman",serif;font-size:1.04rem;line-height:1.82;color:var(--text)}
+    .testimonial figcaption strong{font-family:Georgia,"Times New Roman",serif;font-weight:400;font-size:1.1rem}
+    .contact-card{border-color:color-mix(in srgb,var(--accent) 45%,var(--line));background:radial-gradient(circle at 50% 0,rgba(200,165,106,.12),transparent 55%),var(--panel)}
+    .contact-card h2{font-family:Georgia,"Times New Roman",serif;font-weight:400;letter-spacing:-.055em}
+    .contact-links a,.contact-links button{border-radius:999px;background:transparent;padding:.72rem 1rem}
+    .contact-links a:first-child,.contact-links a:hover,.contact-links button:hover{background:var(--accent);border-color:var(--accent);color:#10120f}
+    footer{padding-block:2rem;letter-spacing:.08em;text-transform:uppercase}
+    @media(max-width:760px){
+      header{height:4.25rem}.nav{display:none}.hero{padding-top:4.5rem}.hero-grid{grid-template-columns:1fr;gap:2.25rem}.hero-copy h1{font-size:clamp(4rem,21vw,6.5rem);line-height:.84}.hero-copy h1 span:last-child{margin-left:.5rem}.hero-art{min-height:27rem}.art-disk{width:min(88vw,25rem);padding:.8rem}.profile-stamp{right:.2rem;bottom:1.25rem}.hero-bottom{margin-top:1.5rem;align-items:flex-start;flex-direction:column}.section-top{padding-bottom:1.35rem;align-items:flex-start;flex-direction:column}.about-grid{grid-template-columns:1fr}.job-button{grid-template-columns:1fr auto}.job-date{grid-row:2}.chevron{grid-column:2;grid-row:1/3}.work-grid{grid-template-columns:1fr}.writing-grid{grid-template-columns:1fr 1fr}.testimonials-grid{grid-template-columns:1fr}.testimonial blockquote{font-size:1rem}}
+    @media(max-width:480px){
+      .say-hi{display:none}.hero-copy h1{font-size:4.15rem}.profile-stamp{transform:scale(.9);transform-origin:right bottom}.hero-art{min-height:23rem}.metrics{grid-template-columns:repeat(2,1fr)}.job-button{padding:1.1rem .1rem}.job-title b{font-size:1.18rem}.section-top h2{font-size:2.75rem}.writing-grid{grid-template-columns:1fr}footer{flex-direction:column;gap:.35rem}}
   </style>
 </head>
 <body>
