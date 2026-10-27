@@ -4,6 +4,13 @@
 
 Jay's work connects technical products with developer audiences across the full go-to-market journey: awareness, education, activation, community, adoption, and advocacy. This site contains his professional experience, selected programs, technical writing, and collaborator testimonials.
 
+Focused pages:
+- Developer Relations: https://jaysaadana.com/developer-relations.html
+- Developer GTM: https://jaysaadana.com/developer-gtm.html
+- Case studies: https://jaysaadana.com/case-studies.html
+- Speaking: https://jaysaadana.com/speaking.html
+- About Jay Saadana: https://jaysaadana.com/about-jay-saadana.html
+
 ## Profile
 
 - [Professional profile](https://jaysaadana.com/index.md): Completed roles and durations, expertise, selected work, writing, and contact details in Markdown.

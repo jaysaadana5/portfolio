@@ -2,6 +2,14 @@
 
 Jay Saadana works at the intersection of Developer Relations (DevRel) and developer go-to-market (GTM). He helps technical products turn positioning, technical content, community, partnerships, events, and product feedback into developer awareness, trust, adoption, and advocacy. He is based in India and works with global developer ecosystems.
 
+## Focused profiles
+
+- [Developer Relations](https://jaysaadana.com/developer-relations.html)
+- [Developer GTM](https://jaysaadana.com/developer-gtm.html)
+- [DevRel and developer GTM case studies](https://jaysaadana.com/case-studies.html)
+- [Speaking and events](https://jaysaadana.com/speaking.html)
+- [About Jay Saadana](https://jaysaadana.com/about-jay-saadana.html)
+
 Official website: https://jaysaadana.com/
 
 ## Previous experience
