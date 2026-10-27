@@ -1,6 +1,6 @@
 # Jay Saadana
 
-Jay Saadana is a Developer Relations (DevRel) professional whose work spans AI agents, open source, developer communities, technical content, and partnerships. He is based in India and works with global developer ecosystems. He previously served as Head of Developer Growth at Agentr.
+Jay Saadana works at the intersection of Developer Relations (DevRel) and developer go-to-market (GTM). He helps technical products turn positioning, technical content, community, partnerships, events, and product feedback into developer awareness, trust, adoption, and advocacy. He is based in India and works with global developer ecosystems.
 
 Official website: https://jaysaadana.com/
 

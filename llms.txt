@@ -1,8 +1,8 @@
 # Jay Saadana
 
-> Official portfolio of Jay Saadana, a Developer Relations professional working across open source, developer communities, technical content, and AI ecosystems. Former Head of Developer Growth at Agentr, a completed 3-month role focused on Webcmd and developer growth.
+> Official portfolio of Jay Saadana, a Developer Relations and developer GTM professional working across positioning, technical content, community, partnerships, events, open source, and AI ecosystems.
 
-Jay's work covers developer community growth, open source, technical education, partnerships, developer experience, and AI agents. This site contains his professional experience, selected projects, writing, and collaborator testimonials.
+Jay's work connects technical products with developer audiences across the full go-to-market journey: awareness, education, activation, community, adoption, and advocacy. This site contains his professional experience, selected programs, technical writing, and collaborator testimonials.
 
 ## Profile
 
