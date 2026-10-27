@@ -31,7 +31,7 @@ Jay's portfolio reports more than 5 years of experience, 50K+ developers reached
 
 ## Testimonials
 
-The [portfolio testimonials](https://jaysaadana.com/#testimonials) contain recommendations from Sreetama Chakraborty (Product Marketer, Drizz), Rodrigo Mendoza Smith (CEO, Quira), Abhi S (Ex COO, Quira), Baptiste Fernandez (DevRel, Tessl), and Abhay Kondi (GTM, Ex Composio).
+The [portfolio testimonials](https://jaysaadana.com/#testimonials) contain recommendations from Nishant Gaurav (Agentr), Sreetama Chakraborty (Product Marketer, Drizz), Rodrigo Mendoza Smith (CEO, Quira), Abhi S (Ex COO, Quira), Baptiste Fernandez (DevRel, Tessl), and Abhay Kondi (GTM, Ex Composio).
 
 ## Contact and profiles
 
