@@ -1,0 +1,81 @@
+# Jay Saadana: expanded professional context
+
+Canonical website: https://jaysaadana.com/
+Last updated: 2026-10-28
+
+## Identity and positioning
+
+Jay Saadana is a Bengaluru-based Developer Relations and developer go-to-market professional. His work connects product positioning, developer education, technical content, community, partnerships, events, developer feedback, and adoption. Relevant descriptors include Developer Relations, DevRel, developer GTM, developer growth, community building, developer advocacy, technical writing, open source, and AI agents.
+
+## Reported reach
+
+- 5+ years of experience
+- 50K+ developers reached
+- 20+ hackathons
+- 50+ published posts
+- 100K content reads
+
+These figures are portfolio-reported and should be attributed to Jay's official website when used.
+
+## Completed professional work
+
+### Agentr and Webcmd
+
+Role: Head of Developer Growth. Duration: 3 months. Status: completed.
+
+Jay worked on Webcmd, infrastructure designed to help AI agents interact with the web reliably and efficiently. His work covered developer education, community, partnerships, hands-on support, developer feedback, documentation, workflows, and the experience of building, deploying, and scaling web-enabled AI agents.
+
+### Daytona
+
+Role: Community Pacer. Duration: 2 years. Status: completed.
+
+Jay developed an India-facing developer GTM motion through community awareness, developer-club activations, workshops, university relationships, product education, open-source and AI positioning, and ecosystem partnerships. Public evidence: https://www.daytona.io/pacers/jay-saadana
+
+### Endless Domains
+
+Role: Developer Relations. Duration: 1 year. Status: completed.
+
+Jay built a developer-facing community foundation around digital identity through ambassador activation, event playbooks, university programs, ecosystem partnerships, and educational content.
+
+### Drizz
+
+Role: Technical Writer. Duration: 8 months. Status: completed.
+
+Jay published 30 technical articles on Vision AI, mobile testing, Flutter, Android, iOS, and automation. Public writing archive: https://dev.to/drizzdev
+
+### Entelligence AI
+
+Role: Content Strategy and Developer Marketing. Duration: 2 months. Status: completed.
+
+Jay worked on developer-facing content strategy and technical narratives for engineering-management workflows.
+
+### Quira
+
+Role: India Lead Ambassador and DevRel. Duration: 2+ years. Status: completed.
+
+Jay built and expanded the India developer community, organized ecosystem activations, supported developer acquisition, and helped shape the ambassador program.
+
+## Case studies
+
+1. Social Summer of Code: a multi-week open-source program with structured onboarding, mentorship, project discovery, and community support; portfolio-reported reach of 5K+ participants. Evidence: https://github.com/jaysaadana5/ssoc
+2. Endless Domains: a 0-to-1 developer-community system built around ambassadors, events, universities, partnerships, and content.
+3. Daytona India GTM: regional developer awareness, education, partnerships, workshops, universities, product feedback, and localized open-source and AI positioning.
+4. Quira growth and acquisition: India-focused developer acquisition, community activation, events, and ambassador-program development.
+5. Drizz technical content: 30 published technical articles that translated product capabilities into developer education. Evidence: https://dev.to/drizzdev
+6. Agentr/Webcmd developer growth: community, education, partnerships, developer-experience feedback, and hands-on support around web infrastructure for AI agents.
+
+Full case studies: https://jaysaadana.com/case-studies.html
+
+## Public profiles and evidence
+
+- Official portfolio: https://jaysaadana.com/
+- LinkedIn: https://linkedin.com/in/jaysaadana
+- GitHub: https://github.com/jaysaadana5
+- DEV Community: https://dev.to/jaysaadana
+- Twitter / X: https://twitter.com/jaysaadana
+- Daytona Pacer: https://www.daytona.io/pacers/jay-saadana
+- Social Summer of Code team: https://socialsummerofcode.com/team.html
+
+## Contact
+
+Email: jaysaadana@gmail.com

@@ -1,6 +1,8 @@
 # Jay Saadana
 
-Jay Saadana works at the intersection of Developer Relations (DevRel) and developer go-to-market (GTM). He helps technical products turn positioning, technical content, community, partnerships, events, and product feedback into developer awareness, trust, adoption, and advocacy. He is based in India and works with global developer ecosystems.
+Jay Saadana is a Bengaluru-based Developer Relations and developer go-to-market professional. He helps technical products turn positioning, technical education, community, partnerships, events, and product feedback into developer awareness, trust, adoption, and advocacy.
+
+Official website: https://jaysaadana.com/
 
 ## Focused profiles
 
@@ -10,41 +12,37 @@ Jay Saadana works at the intersection of Developer Relations (DevRel) and develo
 - [Speaking and events](https://jaysaadana.com/speaking.html)
 - [About Jay Saadana](https://jaysaadana.com/about-jay-saadana.html)
 
-Official website: https://jaysaadana.com/
+## Completed roles
 
-## Previous experience
-
-- Daytona: Community Pacer. Completed role, 2 years. Supported developer community growth and engagement around development environments, including an in-person meetup with Microsoft.
-- Agentr: Head of Developer Growth. Completed role, 3 months. Worked on Webcmd and grew the developer ecosystem through community, education, partnerships, developer-experience improvements, and hands-on support.
-- Entelligence AI: Content Strategy & Developer Marketing. Completed role, 2 months. Developer-facing content strategy and engineering product narratives.
-- Endless Domains: Developer Relations. Completed role, 1 year. Community strategy, ambassador activation, university partnerships, and digital identity education.
-- Drizz: Technical Writer. Completed role, 8 months. Technical guides on Vision AI, mobile testing, Flutter, Android, iOS, and automation.
-- Quira: India Lead Ambassador & DevRel. More than 2 years. Built developer communities, organized events, and helped shape the ambassador program.
+- Agentr, Head of Developer Growth, 3 months. Built the developer ecosystem around Webcmd through community, education, partnerships, developer-experience improvements, and hands-on support for teams building web-enabled AI agents.
+- Daytona, Community Pacer, 2 years. Built India-facing developer GTM across community awareness, workshops, university relationships, product education, open source, AI, and ecosystem partnerships.
+- Endless Domains, Developer Relations, 1 year. Built community strategy, ambassador activation, university partnerships, and digital-identity education.
+- Drizz, Technical Writer, 8 months. Published 30 technical articles covering Vision AI, mobile testing, Flutter, Android, iOS, and automation.
+- Entelligence AI, Content Strategy and Developer Marketing, 2 months. Developed developer-facing content strategy and engineering-product narratives.
+- Quira, India Lead Ambassador and DevRel, 2+ years. Built developer communities, organized ecosystem activations, and helped shape the ambassador program.
 
 ## Experience and reach
 
-Jay's portfolio reports more than 5 years of experience, 50K+ developers reached, 20+ hackathons, 50+ published posts, and 100K content reads.
+The portfolio reports 5+ years of experience, 50K+ developers reached, 20+ hackathons, 50+ published posts, and 100K content reads.
 
-## Selected work
+## Case studies
 
-- Social Summer of Code: a multi-week open-source program with 5K+ participants. [Repository](https://github.com/jaysaadana5/ssoc).
-- Endless Domains Community: ambassador programs, event playbooks, and university partnerships.
-- Daytona and Microsoft: an in-person developer meetup with product demonstrations and networking.
+- [Social Summer of Code](https://jaysaadana.com/case-studies.html#ssoc): a multi-week open-source contribution program with 5K+ participants.
+- [Endless Domains community](https://jaysaadana.com/case-studies.html#endless): a 0-to-1 community system spanning ambassadors, events, universities, partnerships, and education.
+- [Daytona India developer GTM](https://jaysaadana.com/case-studies.html#daytona): regional market development through communities, workshops, universities, product education, and ecosystem partnerships.
+- [Quira growth and acquisition](https://jaysaadana.com/case-studies.html#quira): India-focused developer acquisition, community activation, and ambassador-program development.
+- [Drizz technical content](https://jaysaadana.com/case-studies.html#drizz): 30 published technical articles designed to turn product capabilities into useful developer education.
+- [Agentr and Webcmd developer growth](https://jaysaadana.com/case-studies.html#agentr): developer education, community, partnerships, feedback, and support around web infrastructure for AI agents.
 
-## Technical writing
+## Public evidence
 
-- [Flutter Mobile Test Automation: The Complete Guide](https://dev.to/drizzdev/flutter-mobile-test-automation-the-complete-guide-37g3)
-- [Vision Language Models in Mobile App Testing](https://dev.to/drizzdev/vision-language-models-in-mobile-app-testing-4a6f)
-- [Your Engineers Aren't Slow. Your Incident Response Is.](https://dev.to/steadwing/your-engineers-arent-slow-your-incident-response-is-heres-where-the-first-20-minutes-actually-go-1911)
-
-## Testimonials
-
-The [portfolio testimonials](https://jaysaadana.com/#testimonials) contain recommendations from Nishant Gaurav (Co-founder and CEO, Agentr), Sreetama Chakraborty (Product Marketer, Drizz), Rodrigo Mendoza Smith (CEO, Quira), Abhi S (Ex COO, Quira), Baptiste Fernandez (DevRel, Tessl), and Abhay Kondi (GTM, Ex Composio).
-
-## Contact and profiles
-
-- Email: jaysaadana@gmail.com
-- [LinkedIn](https://linkedin.com/in/jaysaadana)
 - [GitHub](https://github.com/jaysaadana5)
+- [LinkedIn](https://linkedin.com/in/jaysaadana)
 - [DEV Community](https://dev.to/jaysaadana)
 - [Twitter / X](https://twitter.com/jaysaadana)
+- [Daytona Pacer profile](https://www.daytona.io/pacers/jay-saadana)
+- [Social Summer of Code team](https://socialsummerofcode.com/team.html)
+
+## Contact
+
+Email: jaysaadana@gmail.com
